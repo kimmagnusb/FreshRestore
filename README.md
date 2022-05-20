@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to FreshRestore project pages
+
+FreshRestore is a Biodiversa-project funded 
 
 You can use the [editor on GitHub](https://github.com/kimmagnusb/FreshRestore/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
