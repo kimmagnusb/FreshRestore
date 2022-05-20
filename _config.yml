@@ -3,7 +3,7 @@ remote_theme: peterdesmet/petridish@2.0
 title: FreshRestore                        # Title in top navigation bar (navbar) and <head>
 description: Holistic evaluation and restoration measures of human impacts on freshwater ecosystems across biogeographical gradients # Site description in <head>
 author: Kim Magnus Bærum                    # Used for copyright statement in footer
-baseurl: "/FreshRestore"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+#baseurl: "/FreshRestore"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 
@@ -22,7 +22,7 @@ colors:
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
-logo: /assets/theme/images/petri-dish_1f9eb.png # Logo in navbar, will be displayed with 30px height
+logo: /assets/theme/FreshRestore-Logo-simple.jpg # Logo in navbar, will be displayed with 30px height
 
 # BUILD SETTINGS
 markdown: kramdown
