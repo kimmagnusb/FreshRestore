@@ -1,4 +1,4 @@
-remote_theme: peterdesmet/petridish@2.0
+remote_theme:peterdesmet/petridish@2.0
 # SITE SETTINGS
 title: FreshRestore                        # Title in top navigation bar (navbar) and <head>
 description: Holistic evaluation and restoration measures of human impacts on freshwater ecosystems across biogeographical gradients # Site description in <head>
