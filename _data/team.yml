@@ -2,9 +2,10 @@
 
 - name: Kim Magnus Bærum
   role: PI # Will appear next to name
-  image: assets/theme/20190924_094453.jpg # Can be external link
+  image: assets/theme/ # Can be external link
   description: > # Can be Markdown
-    Kim Magnus is a freshwater ecologist with a special interest in understanding the consequences of anthropogenic effects on the population dynamics of fishes. He likes fishing, biking, traveling and hiking. 
+    Kim Magnus is a freshwater ecologist with a special interest in understanding anthropogenic effects on the population dynamics of fishes. He is also involved in a range of other projects including incidental bycatch of seabirds, invasive freshwater species and solutions for migration barriers in streams. 
+    On his spare time he enjoys fishing, biking, traveling and hiking. 
     In FreshRestore, Kim Magnus will lead WP 1, and have the role of PI. 
   #  Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
   #orcid: 0000-0000-0000-0000
