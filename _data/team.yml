@@ -21,10 +21,10 @@
     In his spare time, Antti enjoys fishing, hiking, cooking and music.
   email: antti.p.eloranta@jyu.fi
   
-#- name: Javier Sánchez Hernández
-#  role: WP-leader
-#  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
-#  description: >
-#   Javier is a freshwater ecologist with a main research interest in fish trophic ecology, including competitive interactions, food-web modelling, ontogenetic diet trajectories, niche variation and biogeographic patterns in feeding.
+- name: Javier Sánchez Hernández
+  role: WP-leader
+  image: assets/theme/Picture1.jpg
+  description: >
+    Javier is a freshwater ecologist with a main research interest in fish trophic ecology, including competitive interactions, food-web modelling, ontogenetic diet trajectories, niche variation and biogeographic patterns in feeding.
     The research touches on a wide variety of aspects of trophic ecology theory including, for example, the exploration of competitive coexistence principles through food resource partitioning to understand stability and functioning of animal assemblages and ecosystems.
     Javier will lead WP 3, in collaboration with Antti, as well as contribute to the development of nature-based solutions for mitigation of negative human impacts on European freshwaters (WP5).
