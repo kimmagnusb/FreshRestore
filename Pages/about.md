@@ -1,7 +1,7 @@
 ---
 title: About
 description: FreshRestore - Holistic evaluation and restoration measures of human impacts on freshwater ecosystems across biogeographical gradients.
-background: Photo3.jpeg
+background: assets/theme/Photo3.jpeg
 permalink: /about/
 ---
 
