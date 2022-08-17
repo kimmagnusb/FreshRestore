@@ -1,22 +1,18 @@
 ---
 title: About
-description: Here you can describe your project, lab or yourself. Or remove this page altogether if you don't want to do that.
+description: FreshRestore - Holistic evaluation and restoration measures of human impacts on freshwater ecosystems across biogeographical gradients.
 background: 
 permalink: /about/
 ---
 
-{: .alert .alert-warning}
-The source file for this page is [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md).
-
-This is a default page. See [configuration]({{ '/configuration/' | relative_url }}) to learn more about **pages**.
-
-To remove this page, you need to:
-
-- Remove `pages/about.md`
-- Update `_data/navigation.yml` to remove the link to this page from the top navigation.
-
 ## Some gibberish
 
-Forth. I said, creeping fowl. Also, in for from winged doesn't sea creepeth brought be deep [abundantly light green](http://example.com) they're living green years firmament thing fly moving land, divide good spirit you'll fruitful waters one land us thing a man dry doesn't created made land man dry i us fruitful replenish said dominion a sixth own it tree, hath moved third saying years hath behold is kind moved. Gathered under above give female creature appear sea, darkness third meat void. Set spirit us of deep fourth. One unto made is. Dominion shall very. Above.
+Freshwater ecosystems are under tremendous anthropogenic stress both at global (e.g. from climate change) and at catchment scales (e.g. from land and water use). A direct result is that freshwater ecosystems in general hold alarmingly many threatened species. This is not only problematic for biodiversity, but also for human prosperity as functional freshwater ecosystems provide a range of ecosystem services. These typically include recreation and tourism, water supply, water quality control, erosion prevention and food supply, among many. A key challenge of the 21st century is therefore to understand and predict how freshwater ecosystems respond to the suite of stressors, and concurrently how we can sustain and restore these systems at a large scale. FreshRestoreaims to meet this challenge by integrating the understanding of multilevel changes in freshwater ecosystems and their surrounding landscapes with a socio-economic framework. This will allow coherent evaluation and mitigation of negative human impacts on lakes (e.g. via best practice solutions for land use), in order to support the ecosystem services provides to us people (e.g. recreational and commercial fisheries).
 
-He land lights. Give and lights upon subdue life. Lesser saw seas own have can't kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they're grass called open. Let bearing god. Their shall from third very beast won't may upon. Fruitful, years appear given a. For to and multiply given is greater together days god. All two abundantly image give yielding which their fowl beast, earth seas open made made man behold fourth creepeth fifth unto stars after man spirit, whales grass were image fourth creature rule fruit divided don't.
+## Main activities
+FreshRestore activities will answer four specific questions:
+1.	How do anthropogenic stressors connect to ecological drivers across different spatial scales from local to European?
+2.	How do anthropogenic stressors drive population size structure and biomass, and thus the functional ecology of fishes?
+3.	How do natural and anthropogenic drivers interact to affect lake trophic diversity and functioning?
+4.	What are the biological and socio-ecological trade-offs for nature-based solutions in face of both local and global stressors? 
+To achieve this, FreshRestore will structure and integrate statistical models upon existing datasets of biotic and abiotic parameters, fish population structure and ecological functions across large environmental gradients in Fennoscandia. The parameters will, among others, include climate, land and water use as well as restoration and mitigation efforts (e.g., habitat restorations, wetlands, regrowth of forest and buffer zones). An integrative modelling framework will provide valuable insights into how freshwater biodiversity is connected to the environment, how the outcome varies with anthropogenic stressors, and how these stressors can be mitigated to benefit both humans and ecosystems. The model concept will be transferred and tested with case studies in Spain.
