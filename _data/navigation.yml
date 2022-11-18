@@ -8,16 +8,10 @@
   href: /team/
 - text: Blog
   href: /blog/
-#- text: Documentation
-#  menu: # Dropdown menu (one level deep only)
-#  - text: Installation
-#    href: /installation/
-#  - text: Configuration
-#    href: /configuration/
-#  - text: Markdown
-#    href: /markdown/
-#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-#  - text: "Dropdown header" # Title for block of menu items
-#  - text: External link to GitHub
-#    href: https://github.com/kimmagnusb/FreshRestore/
-#    new_window: true
+- text: Documentation
+  menu: # Dropdown menu (one level deep only)
+  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+  - text: "Dropdown header" # Title for block of menu items
+  - text: External link to Biodiversa
+    href: https://www.biodiversa.org/2032/download
+    new_window: true
