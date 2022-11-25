@@ -10,7 +10,7 @@ permalink: /about/
 FreshRestore is an international BiodivERsA project where research partners from Norway, Sweden, Denmark, Finland and Spain have joined forces to better understand how anthropogenic influence affects freshwater systems, and how and where we best can implement nature based solutions to mitigate the detrimental effects on the freshwater ecosystems.  
 
 {: .col-md-8 .mx-auto}
-![FreshRestore](/assets/theme/FreshRestore-Logo-simple.jpg)
+![FreshRestore](/assets/theme/FreshRestore-Logo-simple.jpgw=50%&q=50%)
 _The FreshRestore logo_
 
 ## Main activities
