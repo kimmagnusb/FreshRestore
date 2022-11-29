@@ -18,7 +18,7 @@
   role: WP-leader
   image: assets/theme/Photo_AnttiEloranta.jpg
   description: >
-    Antti Eloranta (https://sites.google.com/view/antti-p-eloranta/front-page) is working as an Academy of Finland Research Fellow at the University of Jyväskylä, Finland. His new research group investigates natural variation in and human impacts on salmonid fish populations and food webs in Fennoscandian freshwater ecosystems.
+    <a href="https://sites.google.com/view/antti-p-eloranta/front-page">Antti Eloranta</a> is working as an Academy of Finland Research Fellow at the University of Jyväskylä, Finland. His new research group investigates natural variation in and human impacts on salmonid fish populations and food webs in Fennoscandian freshwater ecosystems.
     In the FreshRestore project, Antti Eloranta & co will compile stable isotope data from >100 Fennoscandian lakes to investigate the structure and function of lake food webs along large biogeographical gradients (WP3). 
     He will also contribute to the development of nature-based solutions for mitigation of negative human impacts on European freshwaters (WP5).
     In his spare time, Antti enjoys fishing, hiking, cooking and music.
@@ -43,7 +43,7 @@
   email: par.bystrom@umu.se
   
 - name: Ignasi Arranz Urgell
-  role: Post-doc WP3
+  role: Postdoc
   image: assets/theme/ignasi.png
   description: >
     Ignasi Arranz is a postdoctoral researcher interested in biodiversity science, and ecosystem functioning, especially in the context of global change over freshwater ecosystems. In general, his research is divided into three main lines: 
