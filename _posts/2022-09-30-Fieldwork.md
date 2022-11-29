@@ -13,7 +13,9 @@ These new samples will shed light on food web structure and energy flow within t
 
 
 
+
+
   Cleaning littoral multi-mesh nets at Cimera lake (brook tout) |  Cutting brown trout in the field (Grande de Gredos lake)
 :--------------------------------------------------------------:|:----------------------------------------------------------:
-![](https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.9.jpg?raw=true)  |  ![](https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.5.jpg?raw=true)
+<img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.9.jpg?raw=true" width="250" height="400">  |  <img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.5.jpg?raw=true" width="400" height="400">
 
