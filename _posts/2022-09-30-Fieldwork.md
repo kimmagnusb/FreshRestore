@@ -7,7 +7,7 @@ author: Kim Magnus Bærum
 
 ---
 <p align="center">
-<img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.4.jpg?raw=true" width="500" height="400">
+<img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.4.jpg?raw=true" width="400" height="400">
 _Overview of Grande de Gredos lake, sampling 3-5 October._
 </p>
 
