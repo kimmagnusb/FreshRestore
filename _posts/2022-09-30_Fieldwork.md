@@ -1,7 +1,7 @@
 ---
 title: Nice day for fishing
 description: In field, gathering stable isotopes samples in Spain.  
-date: 2022-09-01
+date: 2022-09-30
 background: assets/theme/Fig.1.jpg
 author: Kim Magnus Bærum
 
