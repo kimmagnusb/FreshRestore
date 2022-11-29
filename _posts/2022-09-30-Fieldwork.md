@@ -12,6 +12,11 @@ These new samples will shed light on food web structure and energy flow within t
 
 
 
+
+
+
+
+
 <p float="right">
   <img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.9.jpg?raw=true" width="250" height="400"/>
   <img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.5.jpg?raw=true" width="400" height="400"/> 
