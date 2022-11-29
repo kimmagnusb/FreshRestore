@@ -17,5 +17,6 @@ These new samples will shed light on food web structure and energy flow within t
 <img align="right" src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.5.jpg?raw=true" width="500" height="500">
 _Sampling brown trout in the field, Grande de Gredos lake_
 
-<img align="left" src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.9.jpg?raw=true" width="300" height="500">
 _Cleaning littoral multi-mesh nets at Cimera lake_
+<img align="left" src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig.9.jpg?raw=true" width="300" height="500">
+
