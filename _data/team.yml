@@ -51,12 +51,13 @@
     In FreshRestore, Ignasi will closely work with Javier in the WP3 in the comparative study among ecosystems at different latitudinal gradients. Visit his <a href="https://www.ignasiarranz.com/">webpage</a> for more information on his main interests.
   email: ignasiarranz@gmail.com
   
-  - name: Matthew Cobain 
+- name: Matthew Cobain 
   role: Postdoc
   image: assets/theme/Cobain_ProfPic.jpg
-  description: Mat, based at Jyväskylä University, is a stable isotope ecologist whose research has predominantly focused on quantifying the structure and functioning of fish communities. He is currently developing improved Bayesian spatial models to understand
-  and map the drivers that underpin isotopic landscapes. In FreshRestore, he will be working closely with Antti Eloranta in WP3 to try and understand the prevailing environmental drivers of lake food-web structures across Fennoscandia through stable isotopes.
-  If you can't find him in the office, lab or field, then he will probably be on the badminton court.
+  description: >
+    Mat, based at Jyväskylä University, is a stable isotope ecologist whose research has predominantly focused on quantifying the structure and functioning of fish communities. He is currently developing improved Bayesian spatial models to understand
+    and map the drivers that underpin isotopic landscapes. In FreshRestore, he will be working closely with Antti Eloranta in WP3 to try and understand the prevailing environmental drivers of lake food-web structures across Fennoscandia through stable isotopes.
+    If you can't find him in the office, lab or field, then he will probably be on the badminton court.
   email: matthew.r.d.cobain@jyu.fi
 
   
