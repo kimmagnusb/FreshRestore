@@ -58,11 +58,20 @@
     and map the drivers that underpin isotopic landscapes. In FreshRestore, he will be working closely with Antti Eloranta in WP3 to try and understand the prevailing environmental drivers of lake food-web structures across Fennoscandia through stable isotopes.
     If you can't find him in the office, lab or field, then he will probably be on the badminton court.
   email: matthew.r.d.cobain@jyu.fi
+  
+- name: Ossi Keva
+  role: Postdoc
+  image: assets/theme/OssiKeva_image.jpeg
+  description: >
+    Ossi is a postdoctoral freshwater ecologist working at the Univeristy of Jyväskylä. He has previously worked with anthropogenic impacts on freshwater food web functioning and biomolecule contents of different organism across the food webs. In FreshRestore
+    project he will be comparing secondary consumer allochtony models based on Bayesian and simple linear approaches. Ossi will be working mainly with Antti Eloranta (WP3) with this subproject where the main goal is to better understand which environmental factors
+    are driving consumer dependence on terrestrial energy sources.
+  email: ossi.keva@jyu.fi
 
 
 - name: Wojciech Uszko 
  role: Postdoc
- image: assets/theme/wojciech_photo.jpg
+ #image: assets/theme/wojciech_photo.jpg
  description: >
    Wojciech is a postdoctoral researcher based at Umeå University. He uses dynamic models, experiments and field data to study warming effects on aquatic food web dynamics and community size structure.
    In FreshRestore, together with Pär Byström he is involved in WP2, where he is developing physiologically-structured population models (PSPMs) to look at the effects of lake and stream habitat characteristics
