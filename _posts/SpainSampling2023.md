@@ -13,8 +13,8 @@ Along with fish, samples of macrophytes, phyto- and zooplankton, terrestrial pla
 
   Hiking to Grande de Gredos lake |  Setting the gill nets on Lake Sanabria
 :--------------------------------------------------------------:|:--------------------------------------------------------------:
-<img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig_Spain2023_2.jpg?raw=true" width="400" height="400"> |  <img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig_Spain2023_1.jpg?raw=true" width="400" height="400">
+<img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig_Spain2023_2.jpg?raw=true"  width="400" height="300"> |  <img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig_Spain2023_1.jpg?raw=true" width="400" height="300">
 
   Selection of macrophyte samples |  Two sampled brown trout
 :--------------------------------------------------------------:|:--------------------------------------------------------------:
-<img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig_Spain2023_3.jpg?raw=true" width="400" height="400"> |  <img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig_Spain2023_4.jpg?raw=true" width="400" height="400">
+<img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig_Spain2023_3.jpg?raw=true" width="400" height="300"> |  <img src="https://github.com/kimmagnusb/FreshRestore/blob/main/assets/theme/Fig_Spain2023_4.jpg?raw=true" width="400" height="218">
