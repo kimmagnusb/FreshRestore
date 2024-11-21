@@ -14,8 +14,6 @@ This study highlights how omnivory—a species' ability to feed at multiple trop
 
 Our findings underline the critical role of omnivorous fish in mountain lakes and suggest exciting avenues for future research into how these ecosystems are fueled by energy inputs from unexpected sources, such as land-dwelling creatures swept into aquatic environments.
 
-Read the full story in
-
-[Javier Sánchez-Hernández, Carlos Jiménez-Corbacho, Ariadna García-Astillero, Ignasi Arranz,
+Read the full story in [Javier Sánchez-Hernández, Carlos Jiménez-Corbacho, Ariadna García-Astillero, Ignasi Arranz,
 First evidence of feeding on micromammals and fish by a cyprinid species (Squalius carolitertii) in lacustrine food webs,
 Food Webs,Volume 39,2024,e00347,ISSN 2352-2496,](https://doi.org/10.1016/j.fooweb.2024.e00347)
